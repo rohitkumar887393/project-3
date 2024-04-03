@@ -1,4 +1,4 @@
-//data pin for ambientlight sensor
+
 int temt6000Pin = A0;
 float light;
 int light_value;
